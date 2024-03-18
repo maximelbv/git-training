@@ -2,6 +2,7 @@ const MyComponent = () => {
   return (
     <>
       <p>hi !</p>
+      <p>Hello ! </p>
     </>
   );
 };
