@@ -1,7 +1,7 @@
 const MyComponent = () => {
   return (
     <>
-      <p>Hello !</p>
+      <p>Hello ! </p>
     </>
   );
 };
