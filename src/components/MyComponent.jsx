@@ -5,6 +5,7 @@ const MyComponent = () => {
       <p>Hello ! </p>
       <p>hola !</p>
       <p>Bonjour !</p>
+      <p>hi!</p>
     </>
   );
 };
