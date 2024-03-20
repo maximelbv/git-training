@@ -3,6 +3,7 @@ const MyComponent = () => {
     <>
       <p>hi!</p>
       <p>My name is Maxime</p>
+      <p>My name is Joe</p>
     </>
   );
 };
