@@ -6,6 +6,7 @@ const MyComponent = () => {
       <p>hola !</p>
       <p>Bonjour !</p>
       <p>hi!</p>
+      <p>My name is Maxime</p>
     </>
   );
 };
